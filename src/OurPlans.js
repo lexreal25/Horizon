@@ -5,7 +5,7 @@ const OurPlans = () => {
     return (
 
         <div>
-            <h2>OUR SERVICES</h2>
+            <h2>OUR PLANS </h2>
         </div>
 
         )
